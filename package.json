@@ -1,5 +1,5 @@
 {
-  "name": "egg-core",
+  "name": "travisxu-egg-core",
   "version": "4.3.0",
   "description": "A core Pluggable framework based on koa",
   "main": "index.js",
